@@ -1,6 +1,7 @@
 body, html {
+    text-align: center;
     margin: 0;
-    font-family: sans-serif;
+    font-family: 'courier new';     
     background-color: lightblue;
 }
 
@@ -11,6 +12,7 @@ body, html {
 
 table, td, th {
     border: 1px solid #aaa;
+    background: white;
 }
 
 table {
@@ -25,6 +27,10 @@ th {
 td {
     text-align: center;
     padding: 5px;
+}
+
+a {
+    color: black;
 }
 
 .form {
