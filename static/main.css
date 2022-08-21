@@ -40,3 +40,7 @@ a {
 #content {
     width: 70%;
 }
+
+.same-height {
+    height: 35px;
+}
